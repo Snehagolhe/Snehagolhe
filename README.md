@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snehagolhe
 - 👀 I’m interested in coading
-- 🌱 I’m currently learning basic language like c and c++
+- 🌱 I’m currently learning android
 - 💞️ I’m looking to collaborate on related to coading
 - 📫 How to reach me on my email - snehagolhe@gmail.com
 
